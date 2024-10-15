@@ -1,5 +1,7 @@
 # Internship-COE
 
+![image](https://github.com/user-attachments/assets/859cee3b-f838-40ad-ae2d-91fded0c726a)
+
 <hr>
 
 ### About this Project
@@ -25,5 +27,9 @@ Model Building
 
 #### Week 4
 Hands – on project
+
+
+
+
 
 
